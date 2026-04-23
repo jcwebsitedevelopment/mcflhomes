@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "buy": "Comprar",
+    "sell": "Vender",
+    "listings": "Propiedades",
+    "about": "Sobre Mí",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "search": "Buscar Propiedades"
+  },
+  "hero": {
+    "title": "Encuentra Tu Hogar Ideal en Florida",
+    "subtitle": "Asesoría experta para compradores y vendedores en Florida Central. Profesionalismo, ética y compromiso en cada paso.",
+    "cta_search": "Buscar Propiedades",
+    "cta_valuation": "Valuación Gratuita"
+  },
+  "services": {
+    "title": "Cómo Puedo Ayudarte",
+    "buyers_title": "Para Compradores",
+    "buyers_desc": "Te guío en cada paso — desde encontrar la propiedad perfecta hasta el cierre. Búsqueda personalizada, negociación experta y apoyo completo.",
+    "buyers_cta": "Comenzar Búsqueda",
+    "sellers_title": "Para Vendedores",
+    "sellers_desc": "Precios estratégicos, marketing profesional y una transacción fluida desde la publicación hasta el cierre. Maximicemos el valor de tu hogar.",
+    "sellers_cta": "Valuación Gratuita"
+  },
+  "about": {
+    "label": "Sobre María",
+    "title": "Tu Agente de Confianza en Florida",
+    "body": "Maria Cardona es una profesional inmobiliaria trilingüe — fluida en inglés, español y portugués — con 8 años de experiencia atendiendo a compradores, vendedores e inversores en Orlando, Kissimmee, Davenport y Florida Central.",
+    "cta": "Conoce a María",
+    "license": "Licencia FL #SL3405251"
+  },
+  "about_page": {
+    "bio1": "Maria Cardona es una agente inmobiliaria con licencia en Florida, profesional trilingüe fluida en inglés, español y portugués — con 8 años de experiencia en el mercado de Florida Central, incluyendo Orlando, Kissimmee, Davenport y Champions Gate.",
+    "bio2": "Su dominio de tres idiomas ofrece una ventaja única en el diverso mercado de Florida, permitiéndole atender a clientes de todos los orígenes con claridad y comprensión genuina. Ya sea que te estés mudando desde el extranjero, comprando tu primera casa o invirtiendo estratégicamente, María garantiza transacciones fluidas y orientación experta en cada paso.",
+    "bio3": "Su enfoque se basa en la transparencia, la ética y los resultados reales — no solo en cerrar tratos, sino en construir relaciones duraderas con las familias a las que sirve.",
+    "stat1": "Años de Experiencia",
+    "stat2": "Ventas Verificadas",
+    "stat3": "Precio Promedio",
+    "stat4": "Idiomas"
+  },
+  "buy_steps": {
+    "step1_title": "Consulta Inicial",
+    "step1_desc": "Comenzamos con una conversación sin compromiso para entender tus necesidades, objetivos y presupuesto.",
+    "step2_title": "Búsqueda de Propiedades",
+    "step2_desc": "Selecciono una lista personalizada de propiedades que se ajustan a tus criterios y coordino las visitas.",
+    "step3_title": "Hacer una Oferta",
+    "step3_desc": "Una vez que encuentres el hogar ideal, te ayudo a preparar una oferta competitiva y negocio en tu nombre.",
+    "step4_title": "Inspección y Diligencia",
+    "step4_desc": "Coordino las inspecciones y te guío en cada detalle para proteger tu inversión.",
+    "step5_title": "Cierre",
+    "step5_desc": "Te acompaño en cada documento y me aseguro de que el día del cierre sea tranquilo y sin complicaciones."
+  },
+  "sell_steps": {
+    "step1_title": "Valuación Gratuita",
+    "step1_desc": "Obtenemos un análisis de mercado completo de tu propiedad para determinar el precio de venta óptimo.",
+    "step2_title": "Preparar Tu Casa",
+    "step2_desc": "Consejos de presentación, fotografía profesional y recomendaciones para maximizar el atractivo de tu hogar.",
+    "step3_title": "Marketing Estratégico",
+    "step3_desc": "Tu casa se publica en el MLS, se destaca en redes sociales y se promociona ante compradores calificados.",
+    "step4_title": "Visitas y Ofertas",
+    "step4_desc": "Coordino todas las visitas y reviso cuidadosamente cada oferta para conseguirte las mejores condiciones.",
+    "step5_title": "Negociación y Cierre",
+    "step5_desc": "Negociación experta en tu nombre y apoyo completo en cada paso hasta el cierre de la venta."
+  },
+  "listings": {
+    "title": "Propiedades Destacadas",
+    "subtitle": "Explora las casas disponibles en Florida Central",
+    "price": "Precio",
+    "beds": "Hab.",
+    "baths": "Baños",
+    "sqft": "Pies²",
+    "view": "Ver Propiedad",
+    "coming_soon": "Listados IDX próximamente",
+    "placeholder_note": "Integración MLS completa en progreso. Contacta a María para listados actuales.",
+    "mls_title": "Búsqueda MLS Completa Próximamente",
+    "contact_btn": "Contactar a María",
+    "search_title": "Buscar Propiedades",
+    "filter_area": "Área",
+    "filter_area_all": "Todas las Áreas",
+    "filter_min": "Precio Mínimo",
+    "filter_max": "Precio Máximo",
+    "filter_beds": "Hab.",
+    "filter_baths": "Baños",
+    "filter_type": "Tipo",
+    "filter_type_all": "Todos los Tipos",
+    "filter_type_sfh": "Casa Unifamiliar",
+    "filter_type_condo": "Condo / Townhome",
+    "filter_type_land": "Terreno",
+    "filter_any": "Cualquiera",
+    "filter_search": "Buscar",
+    "filter_reset": "Limpiar",
+    "idx_live_title": "Búsqueda en Vivo — Stellar MLS",
+    "idx_live_desc": "Explora todas las propiedades disponibles en tiempo real.",
+    "idx_pending_title": "Búsqueda MLS en Vivo",
+    "idx_pending_desc": "La búsqueda completa de propiedades del Stellar MLS aparecerá aquí. Contacta a María para listados actuales.",
+    "idx_pending_cta": "Contactar a María",
+    "areas_title": "Áreas de Servicio",
+    "areas_subtitle": "Atendiendo a compradores y vendedores en Florida Central"
+  },
+  "calculator": {
+    "title": "Calculadora Hipotecaria",
+    "subtitle": "Estima tu pago mensual",
+    "price": "Precio de la Propiedad",
+    "down": "Pago Inicial",
+    "rate": "Tasa de Interés",
+    "term": "Plazo del Préstamo",
+    "term_years": "años",
+    "calculate": "Calcular",
+    "result": "Pago Mensual Estimado",
+    "disclaimer": "Este es solo un estimado. Consulta con tu prestamista para cifras precisas."
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Experiencias reales de clientes reales",
+    "cta_title": "¿Listo para escribir tu propia historia de éxito?"
+  },
+  "blog": {
+    "title": "Últimas Novedades",
+    "subtitle": "Consejos y noticias sobre el mercado inmobiliario de Florida",
+    "read_more": "Leer Más",
+    "view_all": "Ver Todos los Artículos"
+  },
+  "contact": {
+    "title": "Hablemos",
+    "subtitle": "¿Listo para dar el siguiente paso? Contáctame hoy.",
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Número de Teléfono",
+    "message": "Mensaje",
+    "message_placeholder": "Cuéntame cómo puedo ayudarte...",
+    "send": "Enviar Mensaje",
+    "or": "O comunícate directamente",
+    "whatsapp": "WhatsApp",
+    "sending": "Enviando...",
+    "success": "¡Mensaje enviado! Me pondré en contacto pronto.",
+    "error": "Algo salió mal. Intenta de nuevo o contáctame directamente por WhatsApp."
+  },
+  "footer": {
+    "license": "Agente Inmobiliaria con Licencia en Florida · Licencia #SL3405251",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "links_title": "Navegación",
+    "contact_title": "Contacto",
+    "tagline": "Servicios inmobiliarios expertos para compradores y vendedores en Florida Central. Profesionalismo, ética y compromiso en cada transacción.",
+    "region": "Orlando y Florida Central",
+    "calculator": "Calculadora",
+    "realtor_title": "Agente Inmobiliaria en Florida"
+  },
+  "recent_sales": {
+    "label": "Transacciones Verificadas",
+    "title": "Historial Comprobado",
+    "subtitle": "Transacciones cerradas reales, verificadas en Zillow",
+    "seller": "Vendedor",
+    "buyer": "Comprador",
+    "closed": "Cerrado",
+    "stats_recent": "Ventas Últimos 12 Meses",
+    "stats_total": "Ventas Verificadas Totales",
+    "stats_range": "Rango de Precios",
+    "stats_avg": "Precio Promedio",
+    "zillow_verified": "Perfil verificado · Transacciones provenientes de Zillow",
+    "zillow_cta": "Ver Perfil Completo en Zillow"
+  },
+  "pages": {
+    "about": {
+      "title": "Sobre Maria Cardona",
+      "hero_title": "Conoce a Maria Cardona",
+      "hero_subtitle": "Tu experta inmobiliaria dedicada en Florida"
+    },
+    "buy": {
+      "title": "Comprar una Casa",
+      "hero_title": "Encuentra Tu Hogar Perfecto",
+      "hero_subtitle": "Representación experta de compradores en Florida Central"
+    },
+    "sell": {
+      "title": "Vender Tu Casa",
+      "hero_title": "Vende con Confianza",
+      "hero_subtitle": "Marketing estratégico y negociación experta para el máximo valor"
+    },
+    "listings": {
+      "title": "Listado de Propiedades",
+      "hero_title": "Explorar Propiedades",
+      "hero_subtitle": "Casas disponibles en Florida Central"
+    },
+    "blog": {
+      "title": "Blog Inmobiliario",
+      "hero_title": "Últimas Novedades",
+      "hero_subtitle": "Consejos y noticias del mercado para compradores y vendedores en Florida"
+    },
+    "testimonials": {
+      "title": "Testimonios",
+      "hero_title": "Lo Que Dicen los Clientes",
+      "hero_subtitle": "Historias reales de personas reales"
+    },
+    "contact": {
+      "title": "Contactar a María",
+      "hero_title": "Hablemos",
+      "hero_subtitle": "Lista para ayudarte con tu próximo movimiento"
+    },
+    "calculator": {
+      "title": "Calculadora Hipotecaria",
+      "hero_title": "Calculadora Hipotecaria",
+      "hero_subtitle": "Estima tu pago mensual de hipoteca"
+    }
+  }
+}

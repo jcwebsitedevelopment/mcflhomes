@@ -1,0 +1,207 @@
+{
+  "nav": {
+    "buy": "Buy",
+    "sell": "Sell",
+    "listings": "Listings",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "search": "Search Homes"
+  },
+  "hero": {
+    "title": "Find Your Dream Home in Florida",
+    "subtitle": "Expert guidance for buyers and sellers across Central Florida. Professionalism, ethics, and commitment in every step.",
+    "cta_search": "Search Homes",
+    "cta_valuation": "Free Home Valuation"
+  },
+  "services": {
+    "title": "How I Can Help You",
+    "buyers_title": "For Buyers",
+    "buyers_desc": "I guide you through every step — from finding the perfect property to closing the deal. Personalized search, expert negotiation, and full support.",
+    "buyers_cta": "Start Your Search",
+    "sellers_title": "For Sellers",
+    "sellers_desc": "Strategic pricing, professional marketing, and a smooth transaction from listing to closing. Let's maximize the value of your home.",
+    "sellers_cta": "Get a Free Valuation"
+  },
+  "about": {
+    "label": "About Maria",
+    "title": "Your Trusted Florida Realtor",
+    "body": "Maria Cardona is a trilingual real estate professional — fluent in English, Spanish, and Portuguese — with 8 years of experience serving buyers, sellers, and investors across Orlando, Kissimmee, Davenport, and Central Florida.",
+    "cta": "Meet Maria",
+    "license": "FL License #SL3405251"
+  },
+  "about_page": {
+    "bio1": "Maria Cardona is a licensed Florida Realtor and trilingual real estate professional fluent in English, Spanish, and Portuguese — with 8 years of experience in the Central Florida market, including Orlando, Kissimmee, Davenport, and Champions Gate.",
+    "bio2": "Her multilingual background offers a unique advantage in Florida's diverse market, allowing her to serve clients from all backgrounds with clarity and genuine understanding. Whether you're relocating internationally, purchasing your first home, or strategically investing, Maria provides seamless transactions and expert guidance at every step.",
+    "bio3": "Her approach is built on transparency, ethics, and real results — not just closing deals, but building lasting relationships with the families she serves.",
+    "stat1": "Years Experience",
+    "stat2": "Verified Sales",
+    "stat3": "Avg. Sale Price",
+    "stat4": "Languages"
+  },
+  "buy_steps": {
+    "step1_title": "Initial Consultation",
+    "step1_desc": "We start with a no-obligation conversation to understand your needs, goals, and budget.",
+    "step2_title": "Property Search",
+    "step2_desc": "I curate a personalized list of properties that match your criteria and schedule viewings.",
+    "step3_title": "Make an Offer",
+    "step3_desc": "Once you find the right home, I help you craft a competitive offer and negotiate on your behalf.",
+    "step4_title": "Inspection & Due Diligence",
+    "step4_desc": "I coordinate inspections and guide you through every detail to protect your investment.",
+    "step5_title": "Closing",
+    "step5_desc": "I walk you through every document and make sure your closing day is smooth and stress-free."
+  },
+  "sell_steps": {
+    "step1_title": "Free Home Valuation",
+    "step1_desc": "Get a comprehensive market analysis of your property to determine the optimal listing price.",
+    "step2_title": "Prepare Your Home",
+    "step2_desc": "Staging advice, professional photography, and preparation tips to maximize your home's appeal.",
+    "step3_title": "Strategic Marketing",
+    "step3_desc": "Your home is listed on MLS, featured on social media, and marketed to qualified buyers.",
+    "step4_title": "Showings & Offers",
+    "step4_desc": "I coordinate all showings and carefully review every offer to get you the best terms.",
+    "step5_title": "Negotiation & Close",
+    "step5_desc": "Expert negotiation on your behalf and full support through every step of closing."
+  },
+  "listings": {
+    "title": "Featured Properties",
+    "subtitle": "Explore available homes across Central Florida",
+    "price": "Price",
+    "beds": "Beds",
+    "baths": "Baths",
+    "sqft": "Sq Ft",
+    "view": "View Property",
+    "coming_soon": "IDX listings coming soon",
+    "placeholder_note": "Full MLS integration in progress. Contact Maria for current listings.",
+    "mls_title": "Full MLS Search Coming Soon",
+    "contact_btn": "Contact Maria",
+    "search_title": "Search Properties",
+    "filter_area": "Area",
+    "filter_area_all": "All Areas",
+    "filter_min": "Min Price",
+    "filter_max": "Max Price",
+    "filter_beds": "Beds",
+    "filter_baths": "Baths",
+    "filter_type": "Type",
+    "filter_type_all": "All Types",
+    "filter_type_sfh": "Single Family",
+    "filter_type_condo": "Condo / Townhome",
+    "filter_type_land": "Land",
+    "filter_any": "Any",
+    "filter_search": "Search",
+    "filter_reset": "Reset",
+    "idx_live_title": "Stellar MLS Live Search",
+    "idx_live_desc": "Browse all available properties in real time.",
+    "idx_pending_title": "Live MLS Search",
+    "idx_pending_desc": "Full Stellar MLS property search will appear here. Contact Maria for current available listings.",
+    "idx_pending_cta": "Contact Maria",
+    "areas_title": "Service Areas",
+    "areas_subtitle": "Serving buyers and sellers across Central Florida"
+  },
+  "calculator": {
+    "title": "Mortgage Calculator",
+    "subtitle": "Estimate your monthly payment",
+    "price": "Home Price",
+    "down": "Down Payment",
+    "rate": "Interest Rate",
+    "term": "Loan Term",
+    "term_years": "years",
+    "calculate": "Calculate",
+    "result": "Estimated Monthly Payment",
+    "disclaimer": "This is an estimate only. Contact your lender for accurate figures."
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real experiences from real clients",
+    "cta_title": "Ready to write your own success story?"
+  },
+  "blog": {
+    "title": "Latest Insights",
+    "subtitle": "Tips and news about the Florida real estate market",
+    "read_more": "Read More",
+    "view_all": "View All Articles"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "Ready to make your move? Get in touch today.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Message",
+    "message_placeholder": "Tell me how I can help you...",
+    "send": "Send Message",
+    "or": "Or reach me directly",
+    "whatsapp": "WhatsApp",
+    "sending": "Sending...",
+    "success": "Message sent! I'll be in touch soon.",
+    "error": "Something went wrong. Please try again or reach out directly via WhatsApp."
+  },
+  "footer": {
+    "license": "Florida Licensed Realtor · License #SL3405251",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "links_title": "Quick Links",
+    "contact_title": "Contact",
+    "tagline": "Expert real estate services for buyers and sellers across Central Florida. Professionalism, ethics, and commitment in every transaction.",
+    "region": "Orlando & Central Florida",
+    "calculator": "Calculator",
+    "realtor_title": "Florida Realtor"
+  },
+  "recent_sales": {
+    "label": "Verified Transactions",
+    "title": "Proven Track Record",
+    "subtitle": "Real closed transactions, verified on Zillow",
+    "seller": "Seller",
+    "buyer": "Buyer",
+    "closed": "Closed",
+    "stats_recent": "Sales Last 12 Months",
+    "stats_total": "Total Verified Sales",
+    "stats_range": "Price Range",
+    "stats_avg": "Avg. Sale Price",
+    "zillow_verified": "Verified agent profile · Transactions sourced from Zillow",
+    "zillow_cta": "View Full Profile on Zillow"
+  },
+  "pages": {
+    "about": {
+      "title": "About Maria Cardona",
+      "hero_title": "Meet Maria Cardona",
+      "hero_subtitle": "Your dedicated Florida real estate expert"
+    },
+    "buy": {
+      "title": "Buy a Home",
+      "hero_title": "Find Your Perfect Home",
+      "hero_subtitle": "Expert buyer representation across Central Florida"
+    },
+    "sell": {
+      "title": "Sell Your Home",
+      "hero_title": "Sell With Confidence",
+      "hero_subtitle": "Strategic marketing and expert negotiation for maximum value"
+    },
+    "listings": {
+      "title": "Property Listings",
+      "hero_title": "Browse Properties",
+      "hero_subtitle": "Available homes across Central Florida"
+    },
+    "blog": {
+      "title": "Real Estate Blog",
+      "hero_title": "Latest Insights",
+      "hero_subtitle": "Tips and market news for Florida buyers and sellers"
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "hero_title": "What Clients Say",
+      "hero_subtitle": "Real stories from real people"
+    },
+    "contact": {
+      "title": "Contact Maria",
+      "hero_title": "Let's Connect",
+      "hero_subtitle": "Ready to help you with your next move"
+    },
+    "calculator": {
+      "title": "Mortgage Calculator",
+      "hero_title": "Mortgage Calculator",
+      "hero_subtitle": "Estimate your monthly mortgage payment"
+    }
+  }
+}
