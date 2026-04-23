@@ -156,20 +156,11 @@ export function buildMetadata(
       siteName: 'MCFLHomes',
       locale: loc === 'es' ? 'es_US' : 'en_US',
       type: 'website' as const,
-      images: [
-        {
-          url: siteConfig.ogImage,
-          width: 1200,
-          height: 630,
-          alt: seo.title,
-        },
-      ],
     },
     twitter: {
       card: 'summary_large_image' as const,
       title: seo.ogTitle ?? seo.title,
       description: seo.description,
-      images: [siteConfig.ogImage],
     },
   };
 }
