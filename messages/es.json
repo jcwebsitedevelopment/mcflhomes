@@ -160,7 +160,9 @@
     "stats_range": "Rango de Precios",
     "stats_avg": "Precio Promedio",
     "zillow_verified": "Perfil verificado · Transacciones provenientes de Realtor.com",
-    "zillow_cta": "Ver Perfil Completo en Realtor.com"
+    "zillow_cta": "Ver Perfil Completo en Realtor.com",
+    "zillow_text": "Perfil verificado y reseñas de clientes en Zillow",
+    "zillow_btn": "Ver Perfil en Zillow"
   },
   "pages": {
     "about": {

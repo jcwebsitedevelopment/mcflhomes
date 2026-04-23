@@ -160,7 +160,9 @@
     "stats_range": "Price Range",
     "stats_avg": "Avg. Sale Price",
     "zillow_verified": "Verified agent profile · Transactions sourced from Realtor.com",
-    "zillow_cta": "View Full Profile on Realtor.com"
+    "zillow_cta": "View Full Profile on Realtor.com",
+    "zillow_text": "Verified agent profile and client reviews on Zillow",
+    "zillow_btn": "View Profile on Zillow"
   },
   "pages": {
     "about": {

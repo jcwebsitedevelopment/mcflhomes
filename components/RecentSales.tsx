@@ -125,6 +125,29 @@ export default function RecentSales() {
           </a>
         </AnimateIn>
 
+        {/* Zillow attribution */}
+        <AnimateIn delay={550} className="border border-gold/10 bg-carbon p-6 flex flex-col sm:flex-row items-center justify-between gap-4 mt-4">
+          <div className="flex items-center gap-4">
+            <div className="flex items-center gap-2 shrink-0">
+              <svg width="28" height="28" viewBox="0 0 40 40" fill="none">
+                <rect width="40" height="40" rx="4" fill="#006AFF"/>
+                <text x="50%" y="55%" dominantBaseline="middle" textAnchor="middle" fill="white" fontSize="22" fontWeight="bold" fontFamily="sans-serif">Z</text>
+              </svg>
+              <span className="font-body text-sm font-semibold text-[#006AFF] tracking-wide">zillow.com</span>
+            </div>
+            <div className="w-px h-8 bg-gold/15 hidden sm:block" />
+            <p className="font-body text-off-white/40 text-xs tracking-wider">{t('zillow_text')}</p>
+          </div>
+          <a
+            href="https://www.zillow.com/profile/mcardonahomes"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="shrink-0 flex items-center gap-2 border border-gold/30 hover:border-gold text-gold/70 hover:text-gold font-body text-xs tracking-[0.2em] uppercase font-medium px-5 py-2.5 transition-all duration-200"
+          >
+            {t('zillow_btn')} →
+          </a>
+        </AnimateIn>
+
       </div>
     </section>
   );
