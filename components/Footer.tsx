@@ -22,12 +22,21 @@ export default function Footer() {
         <div className="grid lg:grid-cols-4 gap-12 mb-16">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <div className="mb-6">
+            <div className="mb-6 flex items-center gap-4">
               <Image
                 src="/logo.png"
                 alt="Maria Cardona Realtor"
                 width={280}
                 height={112}
+                className="h-24 w-auto object-contain"
+                unoptimized
+              />
+              <div className="w-px h-12 bg-gold/20" />
+              <Image
+                src="/lpt-realty-logo.png"
+                alt="LPT Realty"
+                width={100}
+                height={100}
                 className="h-24 w-auto object-contain"
                 unoptimized
               />
