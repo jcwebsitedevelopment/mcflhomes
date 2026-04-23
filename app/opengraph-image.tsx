@@ -16,12 +16,10 @@ export default async function Image() {
         style={{
           width: '1200px',
           height: '630px',
-          backgroundColor: '#0A0A0A',
+          backgroundColor: '#000000',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
-          border: '1px solid rgba(201,168,76,0.25)',
-          padding: '40px',
         }}
       >
         <img src={logoSrc} width={680} style={{ objectFit: 'contain' }} />
