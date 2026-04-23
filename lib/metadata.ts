@@ -3,7 +3,7 @@ const BASE_URL = 'https://mcflhomes.com';
 export const siteConfig = {
   baseUrl: BASE_URL,
   name: 'MCFLHomes — Maria Cardona',
-  ogImage: `${BASE_URL}/og-default.png`,
+  ogImage: `${BASE_URL}/og`,
   twitterHandle: undefined as string | undefined,
 };
 
