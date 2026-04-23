@@ -45,15 +45,15 @@ export default function Footer() {
               {t('tagline')}
             </p>
             {/* Social */}
-            <div className="flex gap-3">
+            <div className="flex gap-4">
               <a
                 href="https://www.instagram.com/mcflhomes/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
+                className="w-12 h-12 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
                 aria-label="Instagram"
               >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
                   <rect x="2" y="2" width="20" height="20" rx="5" ry="5" stroke="currentColor" strokeWidth="1.5"/>
                   <circle cx="12" cy="12" r="4" stroke="currentColor" strokeWidth="1.5"/>
                   <circle cx="17.5" cy="6.5" r="1" fill="currentColor"/>
@@ -63,10 +63,10 @@ export default function Footer() {
                 href="https://www.facebook.com/maria.cardona.818178"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
+                className="w-12 h-12 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
                 aria-label="Facebook"
               >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
                   <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
               </a>
@@ -74,10 +74,10 @@ export default function Footer() {
                 href="https://wa.me/16893101026"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="w-9 h-9 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
+                className="w-12 h-12 border border-gold/20 hover:border-gold flex items-center justify-center text-gold/50 hover:text-gold transition-all"
                 aria-label="WhatsApp"
               >
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
                   <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" stroke="currentColor" strokeWidth="1.5"/>
                 </svg>
               </a>
