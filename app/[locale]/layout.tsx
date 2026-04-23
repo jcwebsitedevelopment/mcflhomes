@@ -47,7 +47,7 @@ const schemaData = {
     name: 'LPT Realty',
   },
   sameAs: [
-    'https://www.zillow.com/profile/mcardonahomes',
+    'https://www.realtor.com/realestateagents/65eea762c13715559291edd0',
   ],
 };
 

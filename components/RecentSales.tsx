@@ -102,22 +102,21 @@ export default function RecentSales() {
           ))}
         </div>
 
-        {/* Zillow attribution */}
+        {/* Realtor.com attribution */}
         <AnimateIn delay={450} className="border border-gold/10 bg-carbon p-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-4">
-            {/* Zillow Z icon */}
             <div className="flex items-center gap-2 shrink-0">
               <svg width="28" height="28" viewBox="0 0 40 40" fill="none">
-                <rect width="40" height="40" rx="4" fill="#006AFF"/>
-                <path d="M8 27l15.5-15H9V8h22v4L15.5 27H31v4H8v-4z" fill="white"/>
+                <rect width="40" height="40" rx="4" fill="#D92228"/>
+                <text x="50%" y="55%" dominantBaseline="middle" textAnchor="middle" fill="white" fontSize="22" fontWeight="bold" fontFamily="serif">R</text>
               </svg>
-              <span className="font-body text-sm font-semibold text-[#006AFF] tracking-wide">zillow</span>
+              <span className="font-body text-sm font-semibold text-[#D92228] tracking-wide">realtor.com</span>
             </div>
             <div className="w-px h-8 bg-gold/15 hidden sm:block" />
             <p className="font-body text-off-white/40 text-xs tracking-wider">{t('zillow_verified')}</p>
           </div>
           <a
-            href="https://www.zillow.com/profile/mcardonahomes"
+            href="https://www.realtor.com/realestateagents/65eea762c13715559291edd0"
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 flex items-center gap-2 border border-gold/30 hover:border-gold text-gold/70 hover:text-gold font-body text-xs tracking-[0.2em] uppercase font-medium px-5 py-2.5 transition-all duration-200"

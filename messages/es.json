@@ -151,7 +151,7 @@
   "recent_sales": {
     "label": "Transacciones Verificadas",
     "title": "Historial Comprobado",
-    "subtitle": "Transacciones cerradas reales, verificadas en Zillow",
+    "subtitle": "Transacciones cerradas reales, verificadas en Realtor.com",
     "seller": "Vendedor",
     "buyer": "Comprador",
     "closed": "Cerrado",
@@ -159,8 +159,8 @@
     "stats_total": "Ventas Verificadas Totales",
     "stats_range": "Rango de Precios",
     "stats_avg": "Precio Promedio",
-    "zillow_verified": "Perfil verificado · Transacciones provenientes de Zillow",
-    "zillow_cta": "Ver Perfil Completo en Zillow"
+    "zillow_verified": "Perfil verificado · Transacciones provenientes de Realtor.com",
+    "zillow_cta": "Ver Perfil Completo en Realtor.com"
   },
   "pages": {
     "about": {

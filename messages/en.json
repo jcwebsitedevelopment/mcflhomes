@@ -151,7 +151,7 @@
   "recent_sales": {
     "label": "Verified Transactions",
     "title": "Proven Track Record",
-    "subtitle": "Real closed transactions, verified on Zillow",
+    "subtitle": "Real closed transactions, verified on Realtor.com",
     "seller": "Seller",
     "buyer": "Buyer",
     "closed": "Closed",
@@ -159,8 +159,8 @@
     "stats_total": "Total Verified Sales",
     "stats_range": "Price Range",
     "stats_avg": "Avg. Sale Price",
-    "zillow_verified": "Verified agent profile · Transactions sourced from Zillow",
-    "zillow_cta": "View Full Profile on Zillow"
+    "zillow_verified": "Verified agent profile · Transactions sourced from Realtor.com",
+    "zillow_cta": "View Full Profile on Realtor.com"
   },
   "pages": {
     "about": {
