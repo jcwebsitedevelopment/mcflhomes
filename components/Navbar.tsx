@@ -29,7 +29,7 @@ export default function Navbar() {
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-deep-black/95 backdrop-blur-sm border-b border-gold/10">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
+        <div className="flex items-center justify-between h-24">
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
@@ -37,7 +37,7 @@ export default function Navbar() {
               alt="Maria Cardona Realtor"
               width={180}
               height={72}
-              className="h-14 w-auto object-contain"
+              className="h-20 w-auto object-contain"
               priority
               unoptimized
             />

@@ -26,9 +26,9 @@ export default function Footer() {
               <Image
                 src="/logo.png"
                 alt="Maria Cardona Realtor"
-                width={200}
-                height={80}
-                className="h-16 w-auto object-contain"
+                width={280}
+                height={112}
+                className="h-24 w-auto object-contain"
                 unoptimized
               />
             </div>
