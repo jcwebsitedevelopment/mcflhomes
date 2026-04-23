@@ -118,22 +118,27 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-gold/10 pt-8 space-y-5">
           {/* Equal Housing + License */}
-          <div className="flex flex-col sm:flex-row items-center gap-5">
-            {/* Equal Housing Logo */}
+          <div className="flex flex-col sm:flex-row items-start gap-5">
+            {/* Equal Housing Logo — HUD standard */}
             <div className="flex items-center gap-3 shrink-0">
-              <svg width="36" height="36" viewBox="0 0 100 100" className="text-off-white/30" fill="currentColor">
-                <path d="M50 5L5 45h12v50h26V65h14v30h26V45h12L50 5z"/>
-                <rect x="38" y="55" width="24" height="8" fill="none" stroke="currentColor" strokeWidth="3"/>
-                <path d="M30 80V45h40v35" fill="none" stroke="currentColor" strokeWidth="3"/>
+              <svg width="38" height="38" viewBox="0 0 100 110" fill="none" className="text-off-white/40">
+                <polygon points="50,5 5,48 18,48 18,105 82,105 82,48 95,48" stroke="currentColor" strokeWidth="5" fill="none" strokeLinejoin="round"/>
+                <circle cx="50" cy="58" r="9" stroke="currentColor" strokeWidth="4" fill="none"/>
+                <path d="M34 98c0-8.837 7.163-16 16-16s16 7.163 16 16" stroke="currentColor" strokeWidth="4" fill="none" strokeLinecap="round"/>
               </svg>
               <div>
-                <p className="font-body text-off-white/30 text-[10px] tracking-widest uppercase leading-tight">Equal Housing</p>
-                <p className="font-body text-off-white/30 text-[10px] tracking-widest uppercase leading-tight">Opportunity</p>
+                <p className="font-body text-off-white/40 text-[10px] tracking-widest uppercase leading-tight font-semibold">Equal Housing</p>
+                <p className="font-body text-off-white/40 text-[10px] tracking-widest uppercase leading-tight font-semibold">Opportunity</p>
               </div>
             </div>
-            <p className="font-body text-off-white/25 text-xs tracking-wider text-center sm:text-left">
-              {t('license')}
-            </p>
+            <div className="space-y-2">
+              <p className="font-body text-off-white/25 text-xs tracking-wider">
+                {t('license')}
+              </p>
+              <p className="font-body text-off-white/20 text-[10px] leading-relaxed max-w-xl">
+                We are pledged to the letter and spirit of U.S. policy for the achievement of equal housing opportunity throughout the Nation. We encourage and support an affirmative advertising and marketing program in which there are no barriers to obtaining housing because of race, color, religion, sex, handicap, familial status, or national origin.
+              </p>
+            </div>
           </div>
 
           {/* Legal links + copyright */}
