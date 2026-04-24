@@ -5,6 +5,7 @@ import { join } from 'node:path';
 export const alt = 'Maria Cardona — Florida Realtor | MCFLHomes';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
+export const dynamic = 'force-dynamic';
 
 export default async function Image() {
   const logoData = await readFile(join(process.cwd(), 'public/logo.png'), 'base64');
