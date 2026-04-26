@@ -30,7 +30,7 @@ export default function Hero() {
         style={{ top: '-15%', height: '130%' }}
       >
         <Image
-          src="https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=1920&q=80"
+          src="/hero image.jpg"
           alt="Luxury Florida home"
           fill
           className="object-cover object-center"
