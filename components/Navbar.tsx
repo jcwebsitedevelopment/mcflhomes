@@ -87,7 +87,7 @@ export default function Navbar() {
             {/* CTA */}
             <Link
               href="/contact"
-              className="hidden lg:flex items-center gap-2 bg-gold hover:bg-gold-light text-deep-black text-xs tracking-[0.15em] uppercase font-body font-semibold px-5 py-2.5 transition-colors duration-200"
+              className="hidden lg:flex items-center gap-2 bg-gold hover:bg-deep-black border border-gold text-deep-black hover:text-gold text-xs tracking-[0.15em] uppercase font-body font-semibold px-5 py-2.5 transition-all duration-200"
             >
               {t('search')}
             </Link>
