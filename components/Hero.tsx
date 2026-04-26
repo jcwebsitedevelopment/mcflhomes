@@ -29,13 +29,15 @@ export default function Hero() {
         className="absolute inset-0 will-change-transform"
         style={{ top: '-15%', height: '130%' }}
       >
-        <Image
-          src="/hero image.jpg"
-          alt="Luxury Florida home"
-          fill
-          className="object-cover object-center"
-          priority
-        />
+        <video
+          autoPlay
+          muted
+          loop
+          playsInline
+          className="w-full h-full object-cover object-center"
+        >
+          <source src="/Orlando_Home_Walkthrough_Video_Generated.mp4" type="video/mp4" />
+        </video>
       </div>
 
       {/* Breathing overlay */}
