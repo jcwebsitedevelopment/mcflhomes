@@ -120,7 +120,7 @@ export default function ContactCTA() {
                 <button
                   type="submit"
                   disabled={status === 'sending'}
-                  className="w-full bg-gold hover:bg-gold-light disabled:opacity-60 disabled:cursor-not-allowed text-deep-black font-body font-semibold text-sm tracking-[0.2em] uppercase py-4 transition-colors duration-200 flex items-center justify-center gap-3"
+                  className="w-full bg-gold hover:bg-deep-black border border-gold text-deep-black hover:text-gold disabled:opacity-60 disabled:cursor-not-allowed font-body font-semibold text-sm tracking-[0.2em] uppercase py-4 transition-all duration-200 flex items-center justify-center gap-3"
                 >
                   {status === 'sending' ? (
                     <>
