@@ -96,7 +96,14 @@
     "idx_pending_desc": "Full Stellar MLS property search will appear here. Contact Maria for current available listings.",
     "idx_pending_cta": "Contact Maria",
     "areas_title": "Service Areas",
-    "areas_subtitle": "Serving buyers and sellers across Central Florida"
+    "areas_subtitle": "Serving buyers and sellers across Central Florida",
+    "form_title": "Tell Me What You're Looking For",
+    "form_subtitle": "Fill out the form and I'll send you a personalized list of available properties that match your criteria.",
+    "form_notes": "Additional Notes",
+    "form_notes_placeholder": "Tell me more about what you're looking for — neighborhood, features, timeline, etc.",
+    "form_submit": "Send My Search Criteria",
+    "form_success": "Request Received!",
+    "form_success_sub": "I'll review your criteria and send you matching properties shortly."
   },
   "calculator": {
     "title": "Mortgage Calculator",

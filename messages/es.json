@@ -96,7 +96,14 @@
     "idx_pending_desc": "La búsqueda completa de propiedades del Stellar MLS aparecerá aquí. Contacta a María para listados actuales.",
     "idx_pending_cta": "Contactar a María",
     "areas_title": "Áreas de Servicio",
-    "areas_subtitle": "Atendiendo a compradores y vendedores en Florida Central"
+    "areas_subtitle": "Atendiendo a compradores y vendedores en Florida Central",
+    "form_title": "Cuéntame Qué Estás Buscando",
+    "form_subtitle": "Completa el formulario y te enviaré una lista personalizada de propiedades disponibles que se ajusten a tus criterios.",
+    "form_notes": "Notas Adicionales",
+    "form_notes_placeholder": "Cuéntame más sobre lo que buscas — vecindario, características, plazo, etc.",
+    "form_submit": "Enviar Mis Criterios de Búsqueda",
+    "form_success": "¡Solicitud Recibida!",
+    "form_success_sub": "Revisaré tus criterios y te enviaré propiedades que coincidan en breve."
   },
   "calculator": {
     "title": "Calculadora Hipotecaria",
