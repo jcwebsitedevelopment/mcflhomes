@@ -18,7 +18,7 @@ const serviceAreas = [
   {
     name: 'Orlando',
     desc: 'Urban living, culture, and world-class amenities in the heart of Central Florida.',
-    image: 'https://images.unsplash.com/photo-1575986767340-5d17ae767ab0?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1601051297657-39a9b2ce2cdc?w=600&q=80',
   },
   {
     name: 'Kissimmee',
