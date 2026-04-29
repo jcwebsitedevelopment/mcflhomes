@@ -163,6 +163,8 @@ export default function Footer() {
             </div>
             <p className="font-body text-off-white/25 text-xs tracking-wider">
               © {new Date().getFullYear()} Maria Cardona. {t('rights')}
+              {' '}·{' '}
+              <span className="text-off-white/20">Website by JC Web Design</span>
             </p>
           </div>
         </div>
