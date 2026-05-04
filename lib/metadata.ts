@@ -162,8 +162,5 @@ export function buildMetadata(
       title: seo.ogTitle ?? seo.title,
       description: seo.description,
     },
-    verification: {
-      google: 'google84c858e24c1451bb',
-    },
   };
 }

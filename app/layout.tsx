@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     'Expert real estate services for buyers and sellers in Central Florida. Maria Cardona, licensed Florida Realtor — License #SL3405251.',
   robots: { index: true, follow: true },
   verification: {
-    google: '_y1zRJpej0ho-xRETHN1pQE_1usYgnqLTQJF_wjY-mw',
+    google: 'google84c858e24c1451bb',
   },
 };
 
