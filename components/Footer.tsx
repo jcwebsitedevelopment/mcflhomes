@@ -164,7 +164,7 @@ export default function Footer() {
             <p className="font-body text-off-white/25 text-xs tracking-wider">
               © {new Date().getFullYear()} Maria Cardona. {t('rights')}
               {' '}·{' '}
-              <span className="text-off-white/20">Website by JC Web Design</span>
+              <a href="https://jcwebdevelopment.com" target="_blank" rel="noopener" className="text-off-white/20 hover:text-off-white/40 transition-colors no-underline">Website by JC Web Development</a>
             </p>
           </div>
         </div>
