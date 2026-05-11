@@ -26,7 +26,7 @@ export default function AboutPage() {
           <div className="relative">
             <div className="relative h-[600px] overflow-hidden">
               <Image
-                src="/maria-about.jpeg"
+                src="/maria-about.webp"
                 alt="Maria Cardona"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

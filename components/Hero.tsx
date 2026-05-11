@@ -54,7 +54,7 @@ export default function Hero() {
           style={{ animationDelay: '100ms' }}
         >
           <Image
-            src="/logo.png"
+            src="/logo.webp"
             alt="Maria Cardona Realtor"
             width={260}
             height={104}

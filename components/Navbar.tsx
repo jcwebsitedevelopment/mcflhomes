@@ -33,7 +33,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-4">
             <Image
-              src="/logo.png"
+              src="/logo.webp"
               alt="Maria Cardona Realtor"
               width={180}
               height={72}
@@ -43,7 +43,7 @@ export default function Navbar() {
             />
             <div className="w-px h-10 bg-gold/20" />
             <Image
-              src="/lpt-realty-logo.png"
+              src="/lpt-realty-logo.webp"
               alt="LPT Realty"
               width={80}
               height={80}

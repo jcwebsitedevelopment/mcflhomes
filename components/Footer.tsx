@@ -24,7 +24,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="mb-6 flex items-center gap-4">
               <Image
-                src="/logo.png"
+                src="/logo.webp"
                 alt="Maria Cardona Realtor"
                 width={280}
                 height={112}
@@ -33,7 +33,7 @@ export default function Footer() {
               />
               <div className="w-px h-12 bg-gold/20" />
               <Image
-                src="/lpt-realty-logo.png"
+                src="/lpt-realty-logo.webp"
                 alt="LPT Realty"
                 width={100}
                 height={100}

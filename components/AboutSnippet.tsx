@@ -14,7 +14,7 @@ export default function AboutSnippet() {
             <div className="relative">
               <div className="relative w-full aspect-[3/4] overflow-hidden">
                 <Image
-                  src="/maria-headshot.jpeg"
+                  src="/maria-headshot.webp"
                   alt="Maria Cardona - Florida Realtor"
                   fill
                   sizes="(max-width: 1024px) 100vw, 40vw"

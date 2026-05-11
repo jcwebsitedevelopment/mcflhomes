@@ -113,7 +113,7 @@ export default async function BlogPostPage({ params }: Props) {
           <div className="mt-14 pt-10 border-t border-gold/10 flex items-center gap-5">
             <div className="relative w-14 h-14 rounded-full overflow-hidden shrink-0 border border-gold/20">
               <Image
-                src="/maria-headshot.jpeg"
+                src="/maria-headshot.webp"
                 alt="Maria Cardona"
                 fill
                 className="object-cover object-top"
