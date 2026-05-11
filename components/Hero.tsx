@@ -34,6 +34,7 @@ export default function Hero() {
           muted
           loop
           playsInline
+          preload="none"
           className="w-full h-full object-cover object-center"
         >
           <source src="/Orlando_Home_Walkthrough_Video_Generated.mp4" type="video/mp4" />
