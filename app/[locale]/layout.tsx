@@ -51,6 +51,53 @@ const schemaData = {
   ],
 };
 
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'What areas does Maria Cardona serve in Florida?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Maria Cardona serves buyers and sellers across Central Florida including Orlando, Kissimmee, Davenport, Champions Gate, Clermont, and surrounding areas.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'What languages does Maria Cardona speak?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Maria Cardona is a trilingual Realtor fluent in English, Spanish, and Portuguese, making her the ideal agent for international and Hispanic buyers and sellers in Florida.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'How can I contact Maria Cardona Realtor?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'You can contact Maria Cardona by phone or WhatsApp at (689) 310-1026, by email at mcardonahomes@gmail.com, or through the contact form at mcflhomes.com.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Is Maria Cardona a licensed Florida Realtor?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes, Maria Cardona holds Florida Real Estate License #SL3405251 and is affiliated with LPT Realty.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Does Maria Cardona help with buying and selling homes in Orlando?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Yes, Maria Cardona assists both buyers and sellers in the Orlando metropolitan area and throughout Central Florida, with over 8 years of real estate experience.',
+      },
+    },
+  ],
+};
+
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params;
 
@@ -65,6 +112,10 @@ export default async function LocaleLayout({ children, params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       <Navbar />
       <main className="flex-1">{children}</main>
