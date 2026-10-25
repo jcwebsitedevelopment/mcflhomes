@@ -41,6 +41,16 @@ export default function Navbar() {
               priority
               unoptimized
             />
+            <div className="w-px h-10 bg-gold/20" />
+            <Image
+              src="/blueprint-realty-logo.webp"
+              alt="Blueprint Realty"
+              width={80}
+              height={80}
+              className="h-20 w-auto object-contain"
+              priority
+              unoptimized
+            />
           </Link>
 
           {/* Desktop Nav */}
