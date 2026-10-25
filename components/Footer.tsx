@@ -31,15 +31,6 @@ export default function Footer() {
                 className="h-24 w-auto object-contain"
                 unoptimized
               />
-              <div className="w-px h-12 bg-gold/20" />
-              <Image
-                src="/lpt-realty-logo.webp"
-                alt="LPT Realty"
-                width={100}
-                height={100}
-                className="h-24 w-auto object-contain"
-                unoptimized
-              />
             </div>
             <p className="font-body text-off-white/40 text-xs leading-relaxed max-w-xs mb-6">
               {t('tagline')}
